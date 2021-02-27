@@ -92,12 +92,6 @@ bookmarksRouter
                 .send('Not found');
         }
 
-        //remove bookmark from lists
-        //assume bookmarkIds are not duplicated in the bookmarkIds array
-        // lists.forEach(list => {
-        //     const bookmarkIds = list.bookmarkIds.filter(cid => cid !== id);
-        //     list.bookmarkIds = bookmarkIds;
-        // });
 
         bookmarks.splice(bookmarkIndex, 1);
 

@@ -48,26 +48,6 @@ app.use(function validateBearerToken(req, res, next) {
 app.use(bookmarksRouter)
 
 
-
-// app.get('/bookmarks', (req, res) => {
-//   res.json(bookmarks)
-// })
-
-// app.get('/bookmarks/:id', (req, res) => {
-//   const { id } = req.params;
-//   const bookmark = bookmarks.find(b => b.id == id);
-
-//   // make sure we found a bookmark
-//   if (!bookmark) {
-//     logger.error(`bookmarks with id ${id} not found.`);
-//     return res
-//       .status(404)
-//       .send('bookmark Not Found');
-//   }
-
-//   res.json(bookmark);
-// });
-
 app.use(function errorHandler(error, req, res, next) {
   let response
   if (NODE_ENV === 'production') {
