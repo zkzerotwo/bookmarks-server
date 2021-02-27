@@ -4,7 +4,9 @@ const morgan = require('morgan')
 const cors = require('cors')
 const helmet = require('helmet')
 const winston = require('winston');
+const { v4: uuid } = require('uuid');
 const { NODE_ENV } = require('./config')
+const bookmarksRouter = require('./bookmarks/bookmarks-router')
 
 const app = express()
 
@@ -15,6 +17,7 @@ const morganOption = (process.env.NODE_ENV === 'production')
 app.use(morgan(morganOption))
 app.use(helmet())
 app.use(cors())
+app.use(express.json());
 
 const logger = winston.createLogger({
   level: 'info',
@@ -42,9 +45,28 @@ app.use(function validateBearerToken(req, res, next) {
   next()
 })
 
-app.get('/bookmarks', (req, res) => {
-  res.send('Hello, world!')
-})
+app.use(bookmarksRouter)
+
+
+
+// app.get('/bookmarks', (req, res) => {
+//   res.json(bookmarks)
+// })
+
+// app.get('/bookmarks/:id', (req, res) => {
+//   const { id } = req.params;
+//   const bookmark = bookmarks.find(b => b.id == id);
+
+//   // make sure we found a bookmark
+//   if (!bookmark) {
+//     logger.error(`bookmarks with id ${id} not found.`);
+//     return res
+//       .status(404)
+//       .send('bookmark Not Found');
+//   }
+
+//   res.json(bookmark);
+// });
 
 app.use(function errorHandler(error, req, res, next) {
   let response
