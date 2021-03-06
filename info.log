@@ -1,3 +1,111 @@
 {"message":"bookmark with id 571c8411-c40c-4038-b12e-da8d79de24f9 created","level":"info"}
 {"message":"bookmark with id e8b9cb98-ef9a-4325-beee-93edfb7662db created","level":"info"}
 {"message":"bookmark with id e8b9cb98-ef9a-4325-beee-93edfb7662db deleted.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/123456","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/123456","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"bookmarks with id e8b9cb98-ef9a-4325-beee-93edfb7662db not found.","level":"error"}
+{"message":"bookmarks with id e8b9cb98-ef9a-4325-beee-93edfb7662db not found.","level":"error"}
+{"message":"bookmarks with id e8b9cb98-ef9a-4325-beee-93edfb7662db not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/123456","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/123456","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/123456","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/123456","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/123456","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/123456","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/123456","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"bookmarks with id 123456 not found.","level":"error"}
+{"message":"bookmarks with id 2 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/716d22a8-91af-4cfa-8a14-dbfe8cc0c6c2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/716d22a8-91af-4cfa-8a14-dbfe8cc0c6c2","level":"error"}
+{"message":"bookmarks with id 123456 not found.","level":"error"}
+{"message":"bookmarks with id 2 not found.","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/57686b4f-ccf9-4282-824f-028183efd890","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/57686b4f-ccf9-4282-824f-028183efd890","level":"error"}
+{"message":"bookmarks with id 123456 not found.","level":"error"}
+{"message":"bookmarks with id 2 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/56c1d35a-49d0-4046-96cc-85b11ef6bcfd","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/56c1d35a-49d0-4046-96cc-85b11ef6bcfd","level":"error"}
+{"message":"bookmarks with id 123456 not found.","level":"error"}
+{"message":"bookmarks with id 2 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/9b720fa8-3fe2-427a-8dce-0a2ce21ff46d","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/9b720fa8-3fe2-427a-8dce-0a2ce21ff46d","level":"error"}
+{"message":"bookmarks with id 123456 not found.","level":"error"}
+{"message":"bookmarks with id 2 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/564c8ddc-8f99-4152-a383-84e21d2045eb","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/564c8ddc-8f99-4152-a383-84e21d2045eb","level":"error"}
+{"message":"bookmarks with id 123456 not found.","level":"error"}
+{"message":"bookmarks with id 2 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/396b9fab-4d55-4d8a-a1fe-1d9d8658b5d9","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/396b9fab-4d55-4d8a-a1fe-1d9d8658b5d9","level":"error"}
+{"message":"bookmarks with id 123456 not found.","level":"error"}
+{"message":"bookmarks with id 2 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/b9cd11a4-f1cf-4aab-8342-6e264084ece4","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/b9cd11a4-f1cf-4aab-8342-6e264084ece4","level":"error"}
+{"message":"bookmarks with id 123456 not found.","level":"error"}
+{"message":"bookmarks with id 2 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/1a4115de-6023-4943-bf1c-a2619e6e19c5","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/1a4115de-6023-4943-bf1c-a2619e6e19c5","level":"error"}
+{"message":"bookmarks with id 123456 not found.","level":"error"}
+{"message":"bookmarks with id 2 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/32d82527-b2a5-471d-bc1b-1c932f5fb00a","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/32d82527-b2a5-471d-bc1b-1c932f5fb00a","level":"error"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/537dba6c-b29e-4aee-8304-e55d6f8e5376","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/537dba6c-b29e-4aee-8304-e55d6f8e5376","level":"error"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/fde1a822-0c5b-4e3a-a903-12001a6fa619","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/fde1a822-0c5b-4e3a-a903-12001a6fa619","level":"error"}
+{"message":"Bookmark with id 123456 not found.","level":"error"}

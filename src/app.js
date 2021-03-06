@@ -6,7 +6,7 @@ const helmet = require('helmet')
 const winston = require('winston');
 const { v4: uuid } = require('uuid');
 const { NODE_ENV } = require('./config')
-const bookmarksRouter = require('./bookmarks/bookmarks-router')
+const bookmarksRouter = require('../bookmarks/bookmarks-router')
 
 const app = express()
 
@@ -46,6 +46,10 @@ app.use(function validateBearerToken(req, res, next) {
 })
 
 app.use(bookmarksRouter)
+
+app.get('/', (req, res) => {
+  res.send('Hello, world!')
+})
 
 
 app.use(function errorHandler(error, req, res, next) {
